@@ -79,10 +79,8 @@ int main()
                         else{
                             cout<<endl<<endl;
                             cout<<"Incorrect Credentials"<<endl;
-                            cout<<"|    1.Press 2 to login              |"<<endl
-;
-                            cout<<"|    1.Press 3 to Change password    |"<<endl
-;
+                            cout<<"|    1.Press 2 to login              |"<<endl;
+                            cout<<"|    1.Press 3 to Change password    |"<<endl;
                             break;
                             
                             
