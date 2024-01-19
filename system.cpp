@@ -29,9 +29,24 @@ int main()
                     cout<<"_______________________________"<<endl<<endl;
                     cout<<"|---------Register-------------|"<<endl;
                     cout<<"|______________________________|"<<endl<<endl;
-                    cout<<"Please enter username:-";
+                    cout<<"Please enter username:- ";
                     cin>>name;
-                    cout<<"Please enter the password";
+                    cout<<"Please enter the password:- ";
+                    cin>>password0;
+                    cout<<"Please enter your age:- ";
+                    cin>> age;
+
+                    ofstream of1;
+                    of1.open("file.txt";
+                    if(of1.is.open()){
+                        of1<<name<<"\n";
+                        of1<<password0;
+                        cout<<"Registration successfull"<<endl;
+                        cout<<"Congratulations!"
+                    }
+
+            break;
+
 
            } 
         }
