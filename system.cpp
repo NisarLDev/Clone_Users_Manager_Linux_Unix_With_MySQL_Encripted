@@ -36,7 +36,7 @@ int main()
                 cin>>age;
                 
                 ofstream of1;
-                of1.open("File.txt");
+                of1.open("Register.txt");
                 if(of1.is_open()){
                     of1<<name<<"\n";
                     of1<<password0;
@@ -53,7 +53,7 @@ int main()
                 cout<<"|-----------login----------------|"<<endl<<endl;
                 cout<<"|________________________________|"<<endl<<endl;
                 ifstream of2;
-                of2.open("file.txt");
+                of2.open("Register.txt");
                 cout<<"Please enter the username:-  ";
                 cin>>user;
                 cout<<"Please enter the password:- ";
@@ -94,7 +94,7 @@ int main()
                 i=0;
                 cout<<"-----------Change password----------------"<<endl;
                  ifstream of0;
-                 of0.open("file.txt");
+                 of0.open("Register.txt");
                  cout<<"enter the old password"<<endl;
                  cin>>old;
                  if(of0.is_open())
