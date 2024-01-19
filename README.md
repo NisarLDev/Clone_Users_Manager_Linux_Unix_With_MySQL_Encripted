@@ -30,3 +30,7 @@ https://yt.artemislena.eu/watch?v=0SdZSfDxJFI
 6 - C++ Projects For Beginners 2023 | C++ Project Tutorial | Projects In C++ Language | Simplilearn
 
 https://yt.artemislena.eu/watch?v=_gdo6CAq5aM&listen=false
+
+7 - Security System:
+
+https://github.com/ba9631/Security-System/tree/main
