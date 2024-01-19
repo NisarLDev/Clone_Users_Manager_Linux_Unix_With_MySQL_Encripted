@@ -10,7 +10,7 @@ int main()
     int a, i = 0;
     string text, old, password0, password1, password2, pass, name, age, user, word, word1;
     string creds[2], cp[2];
-    Menu:
+
     cout<<"  Security System Password"<<endl;
     cout<<"_____________________________________"<<endl;
     cout<<"______|Menu Users Manager|___________"<<endl;
@@ -45,8 +45,7 @@ int main()
                     
                 }
                 
-            break;
-            goto Menu;  
+            break;  
             }
             case 2:{
                 i=0;
