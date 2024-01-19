@@ -13,3 +13,8 @@ https://yt.artemislena.eu/watch?v=IutjJ1FNAkg&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYm
 2 - A Simple CRUD In C++ With MySQL | How to Create, Read, Update & Delete Data From MySQL | Urdu/Hindi
 
 https://yt.artemislena.eu/watch?v=MkJ6Oegnpu0&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYmRd5d5&index=16
+
+
+3 - How to Create Registration & Login Form in C++ using MySQL & OOP | Complete C++ Project | Urdu/Hindi
+
+https://yt.artemislena.eu/watch?v=myk1qnIzkDg&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYmRd5d5&index=22
