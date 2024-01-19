@@ -18,3 +18,7 @@ https://yt.artemislena.eu/watch?v=MkJ6Oegnpu0&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYm
 3 - How to Create Registration & Login Form in C++ using MySQL & OOP | Complete C++ Project | Urdu/Hindi
 
 https://yt.artemislena.eu/watch?v=myk1qnIzkDg&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYmRd5d5&index=22
+
+4 - C++ project - Login and Registration - in-depth explanation
+
+https://yt.artemislena.eu/watch?v=nxHnnQToy5o&list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_&index=2
