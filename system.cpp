@@ -17,5 +17,5 @@ int main()
     cout<< "|     1. Register                  |"<<endl;
     cout<< "|     2. Login                     |"<<endl;
     cout<< "|     3. Change password           |"<<endl;
-    cout<< "|_____4. Exit______________________|"<<endl;
+    cout<< "|_____4. Exit______________________|"<<endl;<<endl;
 }
