@@ -41,7 +41,7 @@ int main()
                     of1<<name<<"\n";
                     of1<<password0;
                     cout<<"Registration successfull"<<endl;
-                    
+                    cout<<"Congratulations!"<<endl;
                     
                 }
                 
