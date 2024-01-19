@@ -12,6 +12,7 @@ int main()
     string creds[2], cp[2];
 
     cout<<"  Security System Password"<<endl;
+    cout<<"_____________________________________"<<endl;
     cout<<"______|Menu Users Manager|___________"<<endl<<endl;
     cout<< "|     1. Register                  |"<<endl;
     cout<< "|     2. Login                     |"<<endl;
