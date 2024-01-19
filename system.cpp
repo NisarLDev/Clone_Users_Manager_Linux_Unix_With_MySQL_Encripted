@@ -99,7 +99,7 @@ int main()
                  cin>>old;
                  if(of0.is_open())
                  {
-                     while(of0.eof()){
+                     while(!of0.eof()){
                          while(getline(of0,text)){
                              istringstream iss(text);
                              iss>>word1;
