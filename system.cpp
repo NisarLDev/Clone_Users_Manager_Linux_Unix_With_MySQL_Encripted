@@ -28,7 +28,11 @@ int main()
            case 1:{
                     cout<<"_______________________________"<<endl<<endl;
                     cout<<"|---------Register-------------|"<<endl;
-                    cout<<"|______________________________|"
+                    cout<<"|______________________________|"<<endl<<endl;
+                    cout<<"Please enter username:-";
+                    cin>>name;
+                    cout<<"Please enter the password"
+
            } 
         }
     }
