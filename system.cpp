@@ -110,6 +110,7 @@ int main()
                             of0.close();
                             
                             ofstream of1;
+                            of1.open("Register.txt");
                             if(of1.is_open()){
                                 cout<<"enter your new password:- "<<"\n";
                                 cin>>password1;
