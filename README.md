@@ -26,3 +26,7 @@ https://yt.artemislena.eu/watch?v=nxHnnQToy5o&list=PL43pGnjiVwgQakzRxpt2amqN9f7-
 5 - Security System Project in C++ | Advanced C++ Projects With Source Code | Simplilearn
 
 https://yt.artemislena.eu/watch?v=0SdZSfDxJFI
+
+6 - C++ Projects For Beginners 2023 | C++ Project Tutorial | Projects In C++ Language | Simplilearn
+
+https://yt.artemislena.eu/watch?v=_gdo6CAq5aM&listen=false
