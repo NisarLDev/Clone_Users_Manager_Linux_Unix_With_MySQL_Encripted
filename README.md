@@ -22,3 +22,7 @@ https://yt.artemislena.eu/watch?v=myk1qnIzkDg&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYm
 4 - C++ project - Login and Registration - in-depth explanation
 
 https://yt.artemislena.eu/watch?v=nxHnnQToy5o&list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_&index=2
+
+5 - Security System Project in C++ | Advanced C++ Projects With Source Code | Simplilearn
+
+https://yt.artemislena.eu/watch?v=0SdZSfDxJFI
