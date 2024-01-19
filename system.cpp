@@ -18,4 +18,16 @@ int main()
     cout<< "|     2. Login                     |"<<endl;
     cout<< "|     3. Change password           |"<<endl;
     cout<< "|_____4. Exit______________________|"<<endl;<<endl;
+
+    do{
+        cout<<endl<<endl;
+        cout<<"Enter your choice:- ";
+        cin>>a;
+        swich(a)
+        {
+           case 1:{
+            
+           } 
+        }
+    }
 }
