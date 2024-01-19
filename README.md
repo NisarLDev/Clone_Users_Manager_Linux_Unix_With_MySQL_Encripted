@@ -8,3 +8,8 @@
 1 - How to Encrypt And Decrypt Password in C++ Using MySQL & OOP | Complete C++ Project | Urdu/Hindi
 
 https://yt.artemislena.eu/watch?v=IutjJ1FNAkg&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYmRd5d5&index=15
+
+
+2 - A Simple CRUD In C++ With MySQL | How to Create, Read, Update & Delete Data From MySQL | Urdu/Hindi
+
+https://yt.artemislena.eu/watch?v=MkJ6Oegnpu0&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYmRd5d5&index=16
