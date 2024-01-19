@@ -31,7 +31,7 @@ int main()
                     cout<<"|______________________________|"<<endl<<endl;
                     cout<<"Please enter username:-";
                     cin>>name;
-                    cout<<"Please enter the password"
+                    cout<<"Please enter the password";
 
            } 
         }
