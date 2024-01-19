@@ -4,3 +4,7 @@
 
 
 ### Bibliography:
+
+1 - How to Encrypt And Decrypt Password in C++ Using MySQL & OOP | Complete C++ Project | Urdu/Hindi
+
+https://yt.artemislena.eu/watch?v=IutjJ1FNAkg&list=PL7J_qm5CUrZqwZAwrbECYZQO_SYmRd5d5&index=15
