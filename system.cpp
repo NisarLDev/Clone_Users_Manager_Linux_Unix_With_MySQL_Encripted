@@ -82,10 +82,7 @@ int main()
                             cout<<"|    1.Press 2 to login              |"<<endl;
                             cout<<"|    1.Press 3 to Change password    |"<<endl;
                             break;
-                            
-                            
                         }
-                        
                     }
                 }
             break;
@@ -108,7 +105,7 @@ int main()
                          }
                          if(old==cp[1]){
                             of0.close();
-                            
+                            // User Register file closed and reopend in new instance named of1
                             ofstream of1;
                             of1.open("Register.txt");
                             if(of1.is_open()){
