@@ -131,8 +131,7 @@ int main()
                          }
                      }
                  }
-                 break;
-                
+                 break;       
             }
             case 4:{
                 cout<<"_____________Thank you______________";
@@ -140,7 +139,6 @@ int main()
             }
             default:
                 cout<<"Enter a valid choice";
-            
         }
     }
     while(a!=4);
